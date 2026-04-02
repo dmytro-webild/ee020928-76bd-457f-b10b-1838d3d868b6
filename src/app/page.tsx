@@ -84,6 +84,8 @@ export default function LandingPage() {
             textboxLayout="split"
             useInvertedBackground={false}
             showStepNumbers={true}
+            tag="Expertly Handled"
+            tagIcon={ShieldCheck}
             title="Precision Roofing Workflow"
             description="From inspection to final certification, we handle every detail with military-grade precision."
             features={[
