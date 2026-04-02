@@ -58,35 +58,35 @@ export default function LandingPage() {
           handle: "@johnd",
           testimonial: "Prof Roofing turned my insurance claim disaster into a seamless replacement.",
           rating: 5,
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BfFkPfVLuI6a5BErkD9FBS3Zc3/portrait-of-a-happy-homeowner-smiling-in-1775155461753-71516099.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BfFkPfVLuI6a5BErkD9FBS3Zc3/portrait-of-a-happy-homeowner-smiling-in-1775155461753-71516099.png?_wi=1",
         },
         {
           name: "Sarah Miller",
           handle: "@sarahm",
           testimonial: "The best experience I've had with a contractor in Colorado.",
           rating: 5,
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BfFkPfVLuI6a5BErkD9FBS3Zc3/portrait-of-a-business-owner-standing-co-1775155463827-34c63d3f.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BfFkPfVLuI6a5BErkD9FBS3Zc3/portrait-of-a-business-owner-standing-co-1775155463827-34c63d3f.png?_wi=1",
         },
         {
           name: "Mike Smith",
           handle: "@mikes",
           testimonial: "Reliable, professional, and they handled everything with my insurer.",
           rating: 5,
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BfFkPfVLuI6a5BErkD9FBS3Zc3/portrait-of-an-elderly-couple-happy-with-1775155463471-3c87554c.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BfFkPfVLuI6a5BErkD9FBS3Zc3/portrait-of-an-elderly-couple-happy-with-1775155463471-3c87554c.png?_wi=1",
         },
         {
           name: "Lisa Wang",
           handle: "@lisaw",
           testimonial: "Detailed inspection, no hidden fees, just great work.",
           rating: 5,
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BfFkPfVLuI6a5BErkD9FBS3Zc3/portrait-of-a-busy-professional-standing-1775155461772-be546e05.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BfFkPfVLuI6a5BErkD9FBS3Zc3/portrait-of-a-busy-professional-standing-1775155461772-be546e05.png?_wi=1",
         },
         {
           name: "Tom Brown",
           handle: "@tomb",
           testimonial: "Expertise you can count on when the weather hits.",
           rating: 5,
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BfFkPfVLuI6a5BErkD9FBS3Zc3/portrait-of-a-young-family-happy-outside-1775155461906-2863ea2d.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BfFkPfVLuI6a5BErkD9FBS3Zc3/portrait-of-a-young-family-happy-outside-1775155461906-2863ea2d.png?_wi=1",
         },
       ]}
       buttons={[
@@ -95,7 +95,7 @@ export default function LandingPage() {
           href: "#contact",
         },
       ]}
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BfFkPfVLuI6a5BErkD9FBS3Zc3/a-high-end-residential-roof-replacement--1775155460672-212d80bd.png"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BfFkPfVLuI6a5BErkD9FBS3Zc3/a-high-end-residential-roof-replacement--1775155460672-212d80bd.png?_wi=1"
       imageAlt="Professional roof installation in Colorado"
       avatars={[
         {
@@ -158,7 +158,7 @@ export default function LandingPage() {
       description="We don't just repair roofs; we build resilient shields against Colorados unpredictable weather. Our deep mastery of insurance processes means you get maximum coverage with minimal stress."
       subdescription="Our team of seasoned veterans has seen it all, ensuring your home is protected by industry-leading standards and premium materials."
       icon={Shield}
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BfFkPfVLuI6a5BErkD9FBS3Zc3/professional-roofing-team-on-a-job-site--1775155460252-c193dfcf.png"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BfFkPfVLuI6a5BErkD9FBS3Zc3/professional-roofing-team-on-a-job-site--1775155460252-c193dfcf.png?_wi=1"
       mediaAnimation="slide-up"
     />
   </div>
@@ -174,12 +174,12 @@ export default function LandingPage() {
           title: "Comprehensive Storm Audit",
           description: "We identify hidden wind and hail damage often overlooked by insurance adjusters.",
           phoneOne: {
-            imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BfFkPfVLuI6a5BErkD9FBS3Zc3/detail-shot-of-a-professional-roofing-in-1775155460469-327407bb.png",
+            imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BfFkPfVLuI6a5BErkD9FBS3Zc3/detail-shot-of-a-professional-roofing-in-1775155460469-327407bb.png?_wi=1",
           },
           phoneTwo: {
-            imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BfFkPfVLuI6a5BErkD9FBS3Zc3/homeowner-shaking-hands-with-a-roofer-cl-1775155460269-e5f1ad66.png",
+            imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BfFkPfVLuI6a5BErkD9FBS3Zc3/homeowner-shaking-hands-with-a-roofer-cl-1775155460269-e5f1ad66.png?_wi=1",
           },
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BfFkPfVLuI6a5BErkD9FBS3Zc3/a-high-end-residential-roof-replacement--1775155460672-212d80bd.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BfFkPfVLuI6a5BErkD9FBS3Zc3/a-high-end-residential-roof-replacement--1775155460672-212d80bd.png?_wi=2",
           imageAlt: "A high-end residential roof replacement, sleek architectural shingles, cinematic lighting, gold-hour",
         },
         {
@@ -187,12 +187,12 @@ export default function LandingPage() {
           title: "Insurance Advocacy",
           description: "Our experts negotiate directly with your insurer to ensure your claim is fully funded.",
           phoneOne: {
-            imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BfFkPfVLuI6a5BErkD9FBS3Zc3/detail-shot-of-a-professional-roofing-in-1775155460469-327407bb.png",
+            imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BfFkPfVLuI6a5BErkD9FBS3Zc3/detail-shot-of-a-professional-roofing-in-1775155460469-327407bb.png?_wi=2",
           },
           phoneTwo: {
-            imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BfFkPfVLuI6a5BErkD9FBS3Zc3/homeowner-shaking-hands-with-a-roofer-cl-1775155460269-e5f1ad66.png",
+            imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BfFkPfVLuI6a5BErkD9FBS3Zc3/homeowner-shaking-hands-with-a-roofer-cl-1775155460269-e5f1ad66.png?_wi=2",
           },
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BfFkPfVLuI6a5BErkD9FBS3Zc3/professional-roofing-team-on-a-job-site--1775155460252-c193dfcf.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BfFkPfVLuI6a5BErkD9FBS3Zc3/professional-roofing-team-on-a-job-site--1775155460252-c193dfcf.png?_wi=2",
           imageAlt: "Professional roofing team on a job site wearing clean branded safety gear, smiling, looking authorit",
         },
         {
@@ -200,12 +200,12 @@ export default function LandingPage() {
           title: "Premium Material Build",
           description: "We use only best-in-class materials engineered for longevity and extreme weather.",
           phoneOne: {
-            imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BfFkPfVLuI6a5BErkD9FBS3Zc3/detail-shot-of-a-professional-roofing-in-1775155460469-327407bb.png",
+            imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BfFkPfVLuI6a5BErkD9FBS3Zc3/detail-shot-of-a-professional-roofing-in-1775155460469-327407bb.png?_wi=3",
           },
           phoneTwo: {
-            imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BfFkPfVLuI6a5BErkD9FBS3Zc3/homeowner-shaking-hands-with-a-roofer-cl-1775155460269-e5f1ad66.png",
+            imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BfFkPfVLuI6a5BErkD9FBS3Zc3/homeowner-shaking-hands-with-a-roofer-cl-1775155460269-e5f1ad66.png?_wi=3",
           },
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BfFkPfVLuI6a5BErkD9FBS3Zc3/detail-shot-of-a-professional-roofing-in-1775155460469-327407bb.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BfFkPfVLuI6a5BErkD9FBS3Zc3/detail-shot-of-a-professional-roofing-in-1775155460469-327407bb.png?_wi=4",
           imageAlt: "Detail shot of a professional roofing installation, quality assurance inspection, precision tools, c",
         },
       ]}
@@ -227,7 +227,7 @@ export default function LandingPage() {
           role: "CEO",
           company: "LocalBiz",
           rating: 5,
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BfFkPfVLuI6a5BErkD9FBS3Zc3/portrait-of-a-happy-homeowner-smiling-in-1775155461753-71516099.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BfFkPfVLuI6a5BErkD9FBS3Zc3/portrait-of-a-happy-homeowner-smiling-in-1775155461753-71516099.png?_wi=2",
         },
         {
           id: "2",
@@ -235,7 +235,7 @@ export default function LandingPage() {
           role: "Manager",
           company: "HomeCorp",
           rating: 5,
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BfFkPfVLuI6a5BErkD9FBS3Zc3/portrait-of-a-business-owner-standing-co-1775155463827-34c63d3f.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BfFkPfVLuI6a5BErkD9FBS3Zc3/portrait-of-a-business-owner-standing-co-1775155463827-34c63d3f.png?_wi=2",
         },
         {
           id: "3",
@@ -243,7 +243,7 @@ export default function LandingPage() {
           role: "Artist",
           company: "Studio",
           rating: 5,
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BfFkPfVLuI6a5BErkD9FBS3Zc3/portrait-of-an-elderly-couple-happy-with-1775155463471-3c87554c.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BfFkPfVLuI6a5BErkD9FBS3Zc3/portrait-of-an-elderly-couple-happy-with-1775155463471-3c87554c.png?_wi=2",
         },
         {
           id: "4",
@@ -251,7 +251,7 @@ export default function LandingPage() {
           role: "Pro",
           company: "TechLab",
           rating: 5,
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BfFkPfVLuI6a5BErkD9FBS3Zc3/portrait-of-a-busy-professional-standing-1775155461772-be546e05.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BfFkPfVLuI6a5BErkD9FBS3Zc3/portrait-of-a-busy-professional-standing-1775155461772-be546e05.png?_wi=2",
         },
         {
           id: "5",
@@ -259,7 +259,7 @@ export default function LandingPage() {
           role: "Owner",
           company: "Retail",
           rating: 5,
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BfFkPfVLuI6a5BErkD9FBS3Zc3/portrait-of-a-young-family-happy-outside-1775155461906-2863ea2d.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BfFkPfVLuI6a5BErkD9FBS3Zc3/portrait-of-a-young-family-happy-outside-1775155461906-2863ea2d.png?_wi=2",
         },
       ]}
       kpiItems={[
