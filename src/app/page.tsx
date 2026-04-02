@@ -43,7 +43,7 @@ export default function LandingPage() {
           <HeroBillboardTestimonial
             useInvertedBackground={false}
             background={{ variant: "gradient-bars" }}
-            title="Your Roof Shouldnt Fail When It Matters Most"
+            title="Protect Your Home from Colorado's Extreme Weather"
             description="Protect your home from hail, snow, and costly damage with Auroras trusted roofing specialists. We handle insurance claims, prevent expensive repairs, and build roofs engineered for Colorados extreme weather."
             testimonials={[
               { name: "John Doe", handle: "@johnd", testimonial: "Prof Roofing turned my insurance claim disaster into a seamless replacement.", rating: 5, imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BfFkPfVLuI6a5BErkD9FBS3Zc3/portrait-of-a-happy-homeowner-smiling-in-1775155461753-71516099.png?_wi=1" },
