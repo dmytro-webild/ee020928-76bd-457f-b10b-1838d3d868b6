@@ -11,8 +11,8 @@ import { DM_Sans } from "next/font/google";
 
 
 export const metadata: Metadata = {
-  title: 'Prof Roofing & Exteriors | Aurora\'s Elite Roofing',
-  description: 'Protect your home from hail and storm damage with Aurora\'s elite roofing specialists. Expert insurance claim support and premium roofing solutions.',
+  title: 'Aurora Roofing Experts | Storm Damage & Roof Repair in Colorado's Elite Roofing',
+  description: 'Trusted Aurora roofing contractors specialising in storm damage  repair, roof replacements, and insurance claim assistance. Get a free inspection today. Fast, reliable service across Colorado. 's elite roofing specialists. Expert insurance claim support and premium roofing solutions.',
   openGraph: {
     "title": "Prof Roofing & Exteriors",
     "description": "Aurora's elite roofing specialist for storm protection and quality construction.",
